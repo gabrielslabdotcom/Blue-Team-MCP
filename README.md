@@ -60,7 +60,7 @@ When Wazuh Docker and the MCP run on the same host, use `localhost` for Wazuh en
 ### 1. On your Defender Host (Ubuntu/Debian)
 
 ```bash
-git clone https://github.com/gabrielslab.com/blue-team-mcp
+git clone https://github.com/gabrielslabdotcom/blue-team-mcp
 cd blue-team-mcp
 sudo bash setup.sh
 ```
